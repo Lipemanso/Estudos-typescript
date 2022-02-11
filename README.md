@@ -10,3 +10,5 @@
 - Decorators
 - Interfaces
 
+## Também contém o processo de refatoração dos exercícios em JS vanilla para TS, como processo de práticar os novos conceitos aprendidos.
+
